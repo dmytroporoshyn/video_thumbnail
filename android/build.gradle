@@ -26,7 +26,7 @@ android {
     namespace 'xyz.justsoft.video_thumbnail'
 
     defaultConfig {
-        minSdkVersion 25
+        minSdk 25
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     lint {
